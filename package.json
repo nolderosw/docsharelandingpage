@@ -1,0 +1,23 @@
+{
+  "name": "docshare",
+  "version": "1.0.0",
+  "description": "Landing Page for Docshare",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nolderosw/docsharelandingpage.git"
+  },
+  "author": "DocShare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nolderosw/wesleyazevedo/issues"
+  },
+  "homepage": "https://github.com/nolderosw/wesleyazevedo#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "lightbox2": "^2.10.0"
+  }
+}
