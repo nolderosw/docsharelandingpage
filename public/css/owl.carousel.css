@@ -129,14 +129,14 @@
 }
 
 .owl-theme .owl-controls .item-link:focus {
-    -webkit-box-shadow: 0 0 8px #3498DB;
-    -moz-box-shadow: 0 0 8px #3498DB;
-    box-shadow: 0 0 8px #3498DB;
+    -webkit-box-shadow: 0 0 8px #669966;
+    -moz-box-shadow: 0 0 8px #669966;
+    box-shadow: 0 0 8px #669966;
     outline: none;
 }
 
 .owl-theme .owl-controls .active .item-link {
-    border-bottom: 4px solid #3498DB;
+    border-bottom: 4px solid #669966;
 }
 
 .owl-theme .owl-controls .owl-page span {
@@ -150,9 +150,9 @@
 
 .owl-theme .prev-owl:focus,
 .owl-theme .next-owl:focus {
-    -webkit-box-shadow: 0 0 8px #3498DB;
-    -moz-box-shadow: 0 0 8px #3498DB;
-    box-shadow: 0 0 8px #3498DB;
+    -webkit-box-shadow: 0 0 8px #669966;
+    -moz-box-shadow: 0 0 8px #669966;
+    box-shadow: 0 0 8px #669966;
 }
 
 .owl-theme .prev-owl {
