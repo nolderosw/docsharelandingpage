@@ -1060,6 +1060,12 @@ footer {
 .facebook a:hover {
   background: #4867aa;
 }
+.instagram a {
+  color: #cd486b;
+}
+.instagram a:hover{
+  background: #cd486b;
+}
 .twitter a {
   color: #1da1f2;
 }
